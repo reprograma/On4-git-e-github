@@ -17,3 +17,7 @@ Enviar o seu repositório local para um site de hospedagem de repositórios (ex:
 - Voltar para o Git Bash dentro da pasta
 - `git remote add origin https://github.com/<seuLogin>/<seuRepositorio>.git`: adicionando o endereço do repositório remoto
 - `git push -u origin master`: enviando o que está no Git local para o GitHub
+
+**Extra**
+Caso precise mudar o endereço do seu repositorio online é só dar
+`git remote --set-url origin novaURL`

@@ -1,4 +1,4 @@
-Seguir a <a href="https://docs.google.com/presentation/d/19pGo9F7-0Nh68SOtI3jMsQSb4CG-rJ2yR-2YSChcJb0/edit?usp=sharing" target="_blank">APRESENTAÇÃO</a>
+Seguir a <a href="https://docs.google.com/presentation/d/1pRanz7839_C3YdbIh9DT30giR-WrDWwxGEzkj3QXKuc/edit?usp=sharing" target="_blank">APRESENTAÇÃO</a>
 
 ### Contribuindo com um projeto da Reprograma
 - Entrar o repositório do projeto da Reprograma: https://github.com/reprograma/On4-git-e-github

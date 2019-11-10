@@ -84,8 +84,9 @@ rm -f ou rm --recursive pasta: deleta uma pasta
 whoami - "quem sou eu?" identifica o usuário que está mexendo no sistema.
 
 Vamos para o primeiro exercício ?
-[Exercício 01](1-exercicio-bash)
 ```
+
+[Exercício 01](1-exercicio-bash)
 #### Github
 GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. É a partir dele que hospedaremos nosso repositório local para um online.
 GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com projetos.

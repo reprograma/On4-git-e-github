@@ -126,3 +126,22 @@ Algumas palavras novas que vamos usar com o Git/GitHub
 * Clone: O comando clone faz exatamente o que ele sugere: uma cópia exata do arquivo, que você vai baixar do repositório remoto para a sua máquina.
 
 ***
+
+### Fluxo do git
+![Mockup](imgs/flow.png)
+
+Tudo isso está acontecendo apenas localmente no seu computador!
+
+Cada etiqueta vai gerando um ponto na nossa timeline. Essa etiqueta se chama commit, e com essa pequena descrição fica mais fácil se achar entre as versões.
+
+![Mockup](imgs/commit.png)
+
+***
+
+### Pull request
+
+Quando você faz um fork de um projeto, ou quando você trabalha em uma empresa com mais desenvolvedores, é normal que as demais pessoas envolvidas no projeto façam um review do seu código antes de ele ir pro master, afinal você pode ter cometido algum erro no desenvolvimento, ou alguma parte do seu código pode ser melhorada.
+
+Um pull request é quando você quer fazer merge do seu código em outro branch, mas você precisa da autorização das outras pessoas envolvidas no projeto.
+
+***

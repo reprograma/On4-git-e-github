@@ -9,7 +9,7 @@ Este é o ***Git Bash***. É como um terminal.
 Então, executamos ações por meio de instruções de linha de comando.
 Seguem abaixo algumas ações básicas para nos habituarmos com o terminal Git Bash.
 
-- `pwd`: *path working directory*, mostra o caminho onde você se encontra
+- `pwd`: *print working directory*, mostra o caminho onde você se encontra
 - `ls`: *list*, lista o conteúdo da pasta atual
 - `mkdir`: *make a directory*, cria uma nova pasta. Precisa colocar o nome da nova pasta. Ex: `mkdir nomePastaNova`
 - `cd`: change directory, entrar em uma pasta. Precisa indicar o nome da pasta que quer entrar. Ex: `cd nomePasta`

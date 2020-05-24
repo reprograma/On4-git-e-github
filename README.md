@@ -1,6 +1,5 @@
 # On4-git-e-github
 
-# T8-javascript-IV
 Turma Online 4 | Front-end | 2019 | Semana 3 | Git e Github
 
 Esse conteúdo foi feito com referência nos seguintes materiais:
